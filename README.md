@@ -22,4 +22,4 @@ O **CodeScribe** é uma ferramenta de linha de comando (CLI) projetada para reso
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/DevGuijas/codescribe.git](https://github.com/DevGuijas/codescribe.git)
+   git clone https://github.com/DevGuijas/codescribe.git
